@@ -1,4 +1,4 @@
-# GIS Segmentation with UNet++
+# Semantic Segmentation with UNet++
 
 This repository contains code and resources for training a UNet++ model to perform semantic segmentation on geospatial data. The model is trained on a combination of RGBNIR and SAR (VV, VH) imagery, using a total of 6 channels to predict 14 land use/land cover classes.
 
